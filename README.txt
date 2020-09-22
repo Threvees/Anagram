@@ -1,4 +1,4 @@
-ANAGRAM PAIR APPLICATION by Ville V‰is‰nen
+ANAGRAM PAIR APPLICATION by Ville V√§is√§nen (Java console application)
 
 Usable arguments for the program:
 
@@ -6,7 +6,7 @@ Usable arguments for the program:
     2. (true/false) Generate and print all permutations for chosen anagram word (WARNING: having a long word as anagram will cause massive string array generation or OutOfMemoryError!)
     3. URI for cross reference text file
 
-Example: documenting false https://gist.com/wordlist.txt (Parameters 2 (false) and 3 (url) are optional)
+Example call: documenting false https://gist.com/wordlist.txt (Parameters 2 (false) and 3 (url) are optional)
 
 Anagram pair application forms two-word anagrams of the given string if given word list contains two-word pairs that precisely form the given anagram word.
 
